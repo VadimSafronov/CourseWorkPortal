@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2x7JLIyECkaDsY+Z6xZ0vgAAAAACAAAAAAAQZgAAAAEAACAAAAA85M2qVbjxPNoqZlKOpAVC/gU159QaSoEnkuLH1F22ZgAAAAAOgAAAAAIAACAAAADsDHYpUMJvfxgeilG/XQbCH4EUKQEg1SrQXLpmbwJgZoAAAAC4Fi5/bbsA0HrfK2cKjvwe9/yIiaPDiA1XZykBaUp1yRsHAooE+LO2XeQzQvpCJNUz7rmhNGaIok9y1sroruMZsif3l+QOrDlb+cTvq1SPMQfgdA4dEESE0y5SJA7wsedwQKjEapOhSN2I9BpeG9cRmHyrpTZlZwE4F3joFtpHgEAAAADR0HQfPnKQRGRI7kZhtCOsbY8MsSkWHubssGgqfdMVFkgxTKWAueHMa6+suR2ivaplIqteotn9V2VTYQ2CWCKW</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>server=database-6.cz0egitmt7ue.us-east-2.rds.amazonaws.com%3bdatabase=database66%3busername=admin%3bpassword=l#3z4A4PFLC4</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
